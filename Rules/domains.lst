@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windows.com
 DOMAIN-WILDCARD,instagram.*
 DOMAIN-WILDCARD,*instagram.com
 DOMAIN-REGEX,^gvt[0-9]+\.(com|net)$
