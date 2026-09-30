@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-WILDCARD,instagram.*
 DOMAIN-WILDCARD,*instagram.com
 DOMAIN-REGEX,^gvt[0-9]+\.(com|net)$
