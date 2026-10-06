@@ -12,4 +12,6 @@ DOMAIN-WILDCARD,*.ncsoft.*
 DOMAIN-WILDCARD,*.steam*
 DOMAIN-WILDCARD,steam*
 DOMAIN-WILDCARD,*.nc.*
+DOMAIN-WILDCARD,*.plaync.*
+DOMAIN-WILDCARD,*-sync.*
 DOMAIN-REGEX,^gvt[0-9]+\.(com|net)$
