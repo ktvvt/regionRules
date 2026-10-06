@@ -10,7 +10,4 @@ DOMAIN-WILDCARD,*instagram.com
 DOMAIN-WILDCARD,*.ncsoft.*
 DOMAIN-WILDCARD,*.steam*
 DOMAIN-WILDCARD,steam*
-GEOIP,DE
-GEOIP,FI
-GEOIP,IE
 DOMAIN-REGEX,^gvt[0-9]+\.(com|net)$
