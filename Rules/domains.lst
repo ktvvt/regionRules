@@ -7,4 +7,5 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-WILDCARD,instagram.*
 DOMAIN-WILDCARD,*instagram.com
+DOMAIN-WILDCARD,*.ncsoft.*
 DOMAIN-REGEX,^gvt[0-9]+\.(com|net)$
