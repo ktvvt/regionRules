@@ -1,3 +1,4 @@
+DST-PORT,13700-13800
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windows.com
@@ -10,4 +11,5 @@ DOMAIN-WILDCARD,*instagram.com
 DOMAIN-WILDCARD,*.ncsoft.*
 DOMAIN-WILDCARD,*.steam*
 DOMAIN-WILDCARD,steam*
+DOMAIN-WILDCARD,*.nc.*
 DOMAIN-REGEX,^gvt[0-9]+\.(com|net)$
